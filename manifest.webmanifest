@@ -1,0 +1,30 @@
+{
+  "name": "NYC de Bolso",
+  "short_name": "NYC de Bolso",
+  "id": "./",
+  "description": "Roteiro, mapa, ingressos e gastos da viagem — funciona sem internet.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F2F0",
+  "theme_color": "#F2F2F0",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
